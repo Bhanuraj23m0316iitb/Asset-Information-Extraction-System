@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The API server will start at `http://localhost:8000`
+The API server will start at `http://localhost:8002`
 
 ### 3. Start the Frontend
 
