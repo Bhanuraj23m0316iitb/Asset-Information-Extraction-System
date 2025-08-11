@@ -21,7 +21,7 @@ COPY . .
 RUN mkdir -p /app/logs
 
 # Expose ports for FastAPI and Streamlit
-EXPOSE 8000 8501
+EXPOSE 8002 8501
 
 # Create startup script
 RUN echo '#!/bin/bash\n\
