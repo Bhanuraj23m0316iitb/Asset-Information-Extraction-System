@@ -2,6 +2,12 @@
 
 AI-powered system that extracts structured asset information using web search and Large Language Model processing. Built with FastAPI backend, Streamlit frontend, and Google Gemini for AI processing.
 
+## Screenshots
+
+![First Screenshot](Output_images/Screenshot%202025-08-13%20105108.png)
+
+![Second Screenshot](Output_images/Screenshot%202025-08-13%20105214.png)
+
 ## Features
 
 - **Web Search Integration**: Automatically searches for asset information online using DuckDuckGo
